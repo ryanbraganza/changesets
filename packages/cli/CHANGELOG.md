@@ -1,5 +1,16 @@
 # @changesets/cli
 
+## 2.0.4
+
+### Patch Changes
+
+- [f63b652](https://github.com/atlassian/changesets/commit/f63b6521d2b20c61526c7e31ddf18c4b480b456f) [#176](https://github.com/atlassian/changesets/pull/176) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Change the log type of the default config writing message from `error` to `info` because the message isn't an error
+
+* [94de7c1](https://github.com/atlassian/changesets/commit/94de7c1df278d63f98b599c08271ba4ef26bc3f8) [#173](https://github.com/atlassian/changesets/pull/173) Thanks [@ajaymathur](https://github.com/ajaymathur)! - Catch errors from git being absent and continue on as best possible
+
+* Updated dependencies []:
+  - @changesets/git@0.2.3
+
 ## 2.0.3
 
 ### Patch Changes

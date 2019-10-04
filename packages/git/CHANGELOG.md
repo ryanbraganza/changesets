@@ -1,5 +1,12 @@
 # @changesets/git
 
+## 0.2.3
+
+### Patch Changes
+
+- Updated dependencies [94de7c1]:
+  - @changesets/errors@0.1.0
+
 ## 0.2.2
 
 ### Patch Changes
